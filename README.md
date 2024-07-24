@@ -1,4 +1,4 @@
-# Treasure Island Game
+# 🪙Treasure Island Game
 Welcome to Treasure Island! This is a text-based adventure game where you embark on a journey to find hidden treasure.
 
 ## Built With
